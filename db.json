@@ -1,4 +1,9 @@
 {
-      "id": 1,
-      "nome": "Gilmarcos Santos"
+  "estadosdobrasil": [
+    {
+      "estado": "São Paulo",
+      "sigla": "SP",
+      "id": 1
+    }
+  ]
 }
